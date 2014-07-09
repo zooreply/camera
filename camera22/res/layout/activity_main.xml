@@ -3,7 +3,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent" >
 
-    <com.example.test22.CameraPreview
+    <com.example.camera22.CameraPreview
         android:id="@+id/preView"
         android:layout_width="match_parent"
         android:layout_height="match_parent" />
